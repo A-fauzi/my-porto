@@ -1,0 +1,14 @@
+.nav-link {
+  color: black;
+}
+.nav-link:hover {
+  color: #fca61f;
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+  background-color: #fca61f;
+  border-color: #fca61f;
+}
