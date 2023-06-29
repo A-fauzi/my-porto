@@ -31,9 +31,9 @@ export default function Home() {
           </div>
           <div className="col-lg-6">
             <h1 className="display-5 fw-bold lh-1 mb-3">Hi! I Am <br /> <span className='text-warning'>Akhmad Fauzi</span></h1>
-            <p className="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+            <p className="lead">Passionate Muslim programmer and Android developer 📱💻 | Embracing the power of technology while staying true to my faith 🕌 | Sharing insights on mobile tech.</p>
             <div className="d-grid gap-2 d-md-flex justify-content-md-start">
-              <button type="button" className="btn btn-primary btn-sm rounded-pill p-2 px-4">Hire Me</button>
+              <a href="mailto: akhmadfauzi9797@gmail.com" type="button" className="btn btn-primary btn-sm rounded-pill p-2 px-4">Hire Me</a>
             </div>
           </div>
         </div>
@@ -45,8 +45,8 @@ export default function Home() {
         <div className="row row-cols-1 row-cols-md-2 align-items-md-center g-5 py-5">
           <div className="col d-flex flex-column align-items-start gap-2">
             <h3 className="fw-bold">My Awesome <br /> <span className='text-warning'>Service</span></h3>
-            <p className="text-muted">Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-            <button type="button" className="btn btn-primary btn-sm rounded-pill p-2 px-4">Download CV</button>
+            <p className="text-muted">Saya menawarkan layanan pengembangan aplikasi Android, pembuatan dan pengelolaan website, serta solusi digital lainnya. Dengan keahlian yang saya miliki, saya dapat menciptakan aplikasi yang fungsional dan menarik, desain website responsif dan sesuai dengan merek Anda, serta solusi digital yang membantu bisnis Anda tumbuh dan berhasil.</p>
+            <a href="https://drive.google.com/file/d/148wvcIop0PD0CpZTkieLh3jY062KKSCf/view?usp=drivesdk" type="button" className="btn btn-primary btn-sm rounded-pill p-2 px-4">Download CV</a>
           </div>
 
           <div className="col">
